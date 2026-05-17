@@ -9,7 +9,7 @@
 | Role | Division |
 |------|----------|
 | 🛫 Staff Member | [@ivaoaero](https://github.com/ivaoaero) (HQ) |
-| 🇹🇭  Staff Member | [@ivaoth](https://github.com/ivaoth) (Thailand) |
+| ![TH](https://img.shields.io/badge/Thailand-Division-blue?style=flat-square) Staff Member | [@ivaoth](https://github.com/ivaoth) |
 | 🗓️ Event Coordinator | IVAO Thailand Division |
 
 ---
