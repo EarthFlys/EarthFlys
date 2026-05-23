@@ -12,6 +12,8 @@
 | ![TH](https://img.shields.io/badge/Thailand-Division-blue?style=flat-square) Staff Member | [@ivaoth](https://github.com/ivaoth) |
 | 🗓️ Event Coordinator | IVAO Thailand Division |
 
+
+<img src="https://status.ivao.aero/684950.png">
 ---
 
 ## 👨‍💻 About Me
